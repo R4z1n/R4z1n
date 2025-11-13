@@ -1,7 +1,7 @@
 <h1><strong>👋 Hi there! I'm Razeen Ahmed</strong></h1>
 
 <p>
-<strong>🎓 Computer Science & Engineering Undergraduate</strong><br/>
+<strong>🎓 Information Science & Engineering Undergraduate</strong><br/>
 <strong>🏫 Sahyadri College of Engineering & Management</strong><br/>
 <strong>💻 CSE | Software Development | AI/ML | Full-Stack Development</strong>
 </p>
@@ -11,7 +11,7 @@
 <h2><strong>👨‍💻 About Me</strong></h2>
 
 <p>
-I'm a Computer Science Engineering student passionate about building efficient, scalable, and user-centric software.
+I'm a Information Science Engineering student passionate about building efficient, scalable, and user-centric software.
 I love exploring technologies across full-stack development, AI/ML, automation, and system design.
 Always learning, always building — focused on writing clean code and creating meaningful digital experiences.
 </p>
